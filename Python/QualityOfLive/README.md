@@ -1,4 +1,4 @@
-# qualityOfLive: Python-Skripte für den Alltag
+# QualityOfLive: Python-Skripte für den Alltag
 
 > Eine Sammlung von Python-Skripten und -Programmen, die darauf abzielen, alltägliche Aufgaben zu automatisieren, zu vereinfachen oder Einblicke in persönliche Daten und Gewohnheiten zu gewinnen. Diese Projekte sind darauf ausgerichtet, die "Quality of Life" (Lebensqualität) durch Code zu verbessern.
 
