@@ -4,7 +4,7 @@
 
 ---
 
-## 💡 Zielsetzung
+## Zielsetzung
 
 Der Inhalt dieses Ordners konzentriert sich auf kleine Tools, die:
 1.  **Venv** durch Automatisierung wiederkehrender Aufgaben bieten.
@@ -13,7 +13,7 @@ Jedes Projekt ist in einem eigenen Unterordner organisiert und wird durch eine s
 
 ---
 
-## ⚙️ Technische Anforderungen
+## Technische Anforderungen
 
 Alle Skripte wurden unter **Python 3** entwickelt.
 
