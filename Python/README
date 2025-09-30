@@ -4,7 +4,7 @@
 
 ---
 
-## 💡 Overview
+## Overview
 
 This directory serves as a repository for various self-contained Python scripts. These projects are primarily developed to solve small, specific problems, automate repetitive tasks, or explore new Python libraries and features.
 
@@ -12,7 +12,7 @@ Each script or related group of scripts is located in its own sub-folder and inc
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 All scripts are written for **Python 3**.
 
