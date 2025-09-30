@@ -1,0 +1,24 @@
+# Python Scripts Collection
+
+> A curated collection of personal utility scripts, automation tools, and small proof-of-concept programs written in Python.
+
+---
+
+## 💡 Overview
+
+This directory serves as a repository for various self-contained Python scripts. These projects are primarily developed to solve small, specific problems, automate repetitive tasks, or explore new Python libraries and features.
+
+Each script or related group of scripts is located in its own sub-folder and includes a brief description of its function.
+
+---
+
+## 📦 Requirements
+
+All scripts are written for **Python 3**.
+
+To ensure you have the necessary libraries installed for a specific script, navigate to its respective folder. If a script requires external dependencies, its folder will contain a **`requirements.txt`** file.
+
+You can install all dependencies for a script using `pip`:
+
+```bash
+pip install -r /path/to/script/requirements.txt
