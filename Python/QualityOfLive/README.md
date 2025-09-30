@@ -7,9 +7,7 @@
 ## 💡 Zielsetzung
 
 Der Inhalt dieses Ordners konzentriert sich auf kleine Tools, die:
-1.  **Zeitersparnis** durch Automatisierung wiederkehrender Aufgaben bieten.
-2.  **Organisation** von persönlichen Daten oder Medien verbessern.
-3.  **Einblicke** in persönliche Gewohnheiten, Finanzen oder Produktivität liefern.
+1.  **Venv** durch Automatisierung wiederkehrender Aufgaben bieten.
 
 Jedes Projekt ist in einem eigenen Unterordner organisiert und wird durch eine separate `README.md` detailliert beschrieben.
 
